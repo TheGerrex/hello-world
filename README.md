@@ -1,2 +1,3 @@
 # hello-world
 Repositorio de Prueba
+Hola soy Gerardo Garcia Garcia, vivo en Monterrey, Nuevo Leon Mexico. Soy un estudiante del Tecnologico de Monterrey que esta en 4to semestre en la carrera de Ingenieria en Sistemas Digitales y Robotica. Me gusta la tranquilida, los videojuegos y programar. Actualmente no se mucho de nada, pero poco a poco me ire haciendo uno de los mejores programadores que pueda crear las ideas mas innovadoras del mundo. Pero siempre tener presente que debe de ser divertido lo que hago y que lo hago por el beneficio de la gente para poder hacer un mundo mejor. Hoy acabo de iniciar mi aprendizaje en GitHub y lo encuentro interesante espero que sea una herramienta que me ayude mucho en mis proyecto. 
